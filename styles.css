@@ -1,12 +1,30 @@
-/* h1{
+li
+{
+ font-size :1.5em;
+ list-style-type: none;
+ 
+}
+table
+{
+    margin-left:auto;
+    margin-right:auto;
+}
 
-} */
-
-.imgOfMe {
+.imgOfMe 
+{
     border-radius: 100%;
 }
-body{
+body
+{
     text-align: center;
-   
+    background-image: linear-gradient(to bottom right, lightblue, darkblue); 
     
+}
+a
+{
+    color: white;
+}
+h1
+{
+    color: yellow;
 }
