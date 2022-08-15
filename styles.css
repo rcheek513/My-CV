@@ -12,7 +12,9 @@ table
 
 .imgOfMe 
 {
-    border-radius: 100%;
+    border-radius: 70%;
+    border-style:double;
+    border-color: yellow;
 }
 body
 {
